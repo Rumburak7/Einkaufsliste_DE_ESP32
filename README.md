@@ -1,3 +1,4 @@
+[README_1.md](https://github.com/user-attachments/files/32156737/README_1.md)
 # 🛒 Einkaufsliste ESP32
 
 Domowa lista zakupów z panelem budżetowym, oparta na ESP32, dostępna przez przeglądarkę w sieci WiFi. Dane (listy zakupów, budżet, historia, backupy) trzymane są na karcie SD, więc niczego nie tracisz po restarcie czy zaniku prądu.
